@@ -6,7 +6,7 @@
 
 <p><img align="right" src="https://github.com/ShrutiRoyChowdhury22/algorithms/blob/2863e483d8c6a9afdeb0b876d65f88903cfb931e/code.gif" alt="ShrutiRoyChowdhury22" height="350" width="500" /></p>
 
-- 🌱 I’m currently learning Python programming
+- 🌱 I’m currently learning Python Programming
 
 - 📫 How to reach me [![Mail](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:shrutiroychowdhury22@gamil.com)
 
