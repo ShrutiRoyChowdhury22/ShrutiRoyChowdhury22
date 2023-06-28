@@ -22,7 +22,7 @@
   <a href="https://www.instagram.com/_shru.t.i_/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="shruti" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/" target="blank"><img align="center"
+  <a href="https://www.hackerrank.com/shrutiroychowdh1" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="shruti" height="30" width="40" /></a>
 
