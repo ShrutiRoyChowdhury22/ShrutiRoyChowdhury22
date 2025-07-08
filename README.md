@@ -2,7 +2,7 @@
   <img src="https://github.com/ShrutiRoyChowdhury22/algorithms/blob/2863e483d8c6a9afdeb0b876d65f88903cfb931e/name.svg" alt="Shruti Roy Chowdhury" />
 </h1>
 <h1>Hi 👋</h1>
-<h3>I am Shruti, currently I am working as a Business Operation Analyst 🌟.</h3>
+<h3>I am Shruti, currently I am working as a Business Operation Analyst Intern 🌟.</h3>
 
 <p><img align="right" src="https://github.com/ShrutiRoyChowdhury22/algorithms/blob/2863e483d8c6a9afdeb0b876d65f88903cfb931e/code.gif" alt="ShrutiRoyChowdhury22" height="350" width="500" /></p>
 
